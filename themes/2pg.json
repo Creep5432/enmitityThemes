@@ -26,7 +26,7 @@
     "TEXT_LINK": ["#e600ff"],
 
     "INTERACTIVE_NORMAL": ["#5c0066"],
-    "INTERACTIVE_ACTIVE": ["#e600ff"],
+    "INTERACTIVE_ACTIVE": ["#ffffff"],
     "INTERACTIVE_MUTED": ["#250029"]
 
   },
