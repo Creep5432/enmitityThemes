@@ -9,7 +9,7 @@
   ],
   "spec": 2,
   "semanticColors": {
-    "HEADER_PRIMARY": ["#ff4f4f"],
+    "HEADER_PRIMARY": ["#ffffff"],
     "HEADER_SECONDARY": ["#e600ff"],
 
     "BACKGROUND_PRIMARY": ["#360052"],
@@ -23,7 +23,7 @@
     "BG_BASE_PRIMARY": ["#03001f"],
     "BACKGROUND_MOBILE_SECONDARY": ["#1f0000"],
     "BACKGROUND_MOBILE_PRIMARY": ["#1f0000"],
-    "BG_BASE_PRIMARY": ["#1f0000"],
+    "BG_BASE_PRIMARY": ["#1f0000", "#02001f"],
     
     "TEXT_LINK": ["#e600ff"],
 
