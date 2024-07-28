@@ -22,6 +22,7 @@
     "BACKGROUND_ACCENT": ["#ffffff"],
     "BG_BASE_PRIMARY": ["#03001f"],
     "BACKGROUND_MOBILE_SECONDARY": ["#1f0000"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#1f0000"],
     
     "TEXT_LINK": ["#e600ff"],
 
