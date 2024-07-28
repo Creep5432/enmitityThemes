@@ -10,7 +10,18 @@
   "spec": 2,
   "semanticColors": {
     "HEADER_PRIMARY": ["#ff4f4f"],
+    "HEADER_SECONDARY": ["#e600ff"],
+
     "BACKGROUND_CHAT": ["transparent"],
+    "BACKGROUND_PRIMARY": ["#360052"],
+    "BACKGROUND_SECONDARY": ["#1f002e"],
+    
+    "TEXT_LINK": ["#e600ff"],
+
+    "INTERACTIVE_NORMAL": ["#5c0066"],
+    "INTERACTIVE_ACTIVE": ["#e600ff"],
+    "INTERACTIVE_MUTED": ["#250029"],
+
   },
   "rawColors": {
     "PRIMARY_500": "#9E8376"
