@@ -9,7 +9,9 @@
   ],
   "spec": 2,
   "semanticColors": {
-    "HEADER_PRIMARY": ["#EFDFD7", "#E7D6CE", "#A07D6C"]
+    "HEADER_PRIMARY": ["#ff4f4f"]
+    "BACKGROUND_CHAT": ["transparent"],
+    "
   },
   "rawColors": {
     "PRIMARY_500": "#9E8376"
