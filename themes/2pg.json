@@ -27,10 +27,9 @@
     
     "TEXT_LINK": ["#e600ff"],
 
-    "INTERACTIVE_NORMAL": ["#5c0066"],
+    "INTERACTIVE_NORMAL": ["#454545"],
     "INTERACTIVE_ACTIVE": ["#ffffff"],
-    "INTERACTIVE_MUTED": ["#250029"]
-
+    "INTERACTIVE_MUTED": ["#454545"]
   },
   "rawColors": {
     "PRIMARY_500": "#9E8376"
