@@ -1,6 +1,6 @@
 {
     "name": "2 Player Games",
-    "description": "",
+    "description": "Theme for '2 Player Games'",
     "authors": [
         {
             "name": "Creep5432",
@@ -59,7 +59,6 @@
         "BACKGROUND_NESTED_FLOATING": [
             "#15100d"
         ],
-       
         "BACKGROUND_MESSAGE_HOVER": [
             "#322720"
         ],
@@ -94,7 +93,7 @@
             "#9E8376"
         ],
         "TEXT_LINK": [
-            "#a600ff"
+            "#A600FF"
         ],
         "TEXT_DANGER": [
             "#503E38"
