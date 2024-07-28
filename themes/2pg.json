@@ -20,7 +20,7 @@
 
     "INTERACTIVE_NORMAL": ["#5c0066"],
     "INTERACTIVE_ACTIVE": ["#e600ff"],
-    "INTERACTIVE_MUTED": ["#250029"],
+    "INTERACTIVE_MUTED": ["#250029"]
 
   },
   "rawColors": {
