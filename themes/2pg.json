@@ -12,9 +12,9 @@
     "HEADER_PRIMARY": ["#ff4f4f"],
     "HEADER_SECONDARY": ["#e600ff"],
 
-    "BACKGROUND_CHAT": ["transparent"],
     "BACKGROUND_PRIMARY": ["#360052"],
     "BACKGROUND_SECONDARY": ["#1f002e"],
+    "BACKGROUND_MOBILE_SECONDARY", ["#360000"],
     
     "TEXT_LINK": ["#e600ff"],
 
